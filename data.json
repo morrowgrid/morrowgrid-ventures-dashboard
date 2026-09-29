@@ -1,16 +1,88 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-29T12:47:52-04:00",
+  "updatedAt": "2026-09-29T12:59:10-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
-    {"name":"Digital product catalog","platform":"Payhip","status":"building","reason":"","revenue":0,"milestone":"Complete storefront login and publish six ready products","detail":"Budget sheet, small-business books, Airbnb tracker, pricing calculator and two Notion CRMs"},
-    {"name":"Etsy shop","platform":"Etsy","status":"blocked","reason":"One-time $29 setup fee deferred","revenue":0,"milestone":"Revisit setup fee when approved","detail":""},
-    {"name":"Service gigs","platform":"Fiverr","status":"blocked","reason":"Platform access blocked; self-onboarding deferred","revenue":0,"milestone":"Owner onboarding or an alternative route","detail":""},
-    {"name":"Metered invoice API","platform":"RapidAPI + Cloudflare Workers","status":"building","reason":"","revenue":0,"milestone":"Ship the invoice PDF generator","detail":"First metered API"},
-    {"name":"Microtools + paid tier","platform":"Web + Stripe","status":"building","reason":"Stripe signup pending; agent access blocked","revenue":0,"milestone":"Complete Stripe signup and connect a paid tier","detail":""},
-    {"name":"Affiliate calculator sites","platform":"Web + affiliate partners","status":"queued","reason":"","revenue":0,"milestone":"Launch the first live calculator site","detail":""},
-    {"name":"Stock assets","platform":"Adobe Stock","status":"blocked","reason":"Account live; upload requires phone verification","revenue":0,"milestone":"Complete phone verification and upload assets","detail":""},
-    {"name":"Print on demand","platform":"Redbubble","status":"building","reason":"","revenue":0,"milestone":"Publish the first designs","detail":"Account live; initial designs in progress"},
-    {"name":"Open-source sponsorship","platform":"GitHub Sponsors","status":"queued","reason":"","revenue":0,"milestone":"Prepare the first sponsorable project","detail":"Account live"}
+    {
+      "name": "Digital product catalog",
+      "platform": "Payhip",
+      "status": "building",
+      "reason": "",
+      "revenue": 0,
+      "milestone": "Complete storefront login and publish six ready products",
+      "detail": "Budget sheet, small-business books, Airbnb tracker, pricing calculator and two Notion CRMs"
+    },
+    {
+      "name": "Etsy shop",
+      "platform": "Etsy",
+      "status": "blocked",
+      "reason": "One-time $29 setup fee deferred",
+      "revenue": 0,
+      "milestone": "Revisit setup fee when approved",
+      "detail": ""
+    },
+    {
+      "name": "Service gigs",
+      "platform": "Fiverr",
+      "status": "blocked",
+      "reason": "Platform access blocked; self-onboarding deferred",
+      "revenue": 0,
+      "milestone": "Owner onboarding or an alternative route",
+      "detail": ""
+    },
+    {
+      "name": "Metered invoice API",
+      "platform": "RapidAPI + Cloudflare Workers",
+      "status": "live",
+      "reason": "",
+      "revenue": 0,
+      "milestone": "Finish RapidAPI listing and launch paid plans after payment setup",
+      "detail": "Invoice PDF generator deployed; RapidAPI listing in progress. Free $0 plan only; paid tiers planned."
+    },
+    {
+      "name": "Microtools + paid tier",
+      "platform": "Web + Stripe",
+      "status": "building",
+      "reason": "Stripe signup pending; agent access blocked",
+      "revenue": 0,
+      "milestone": "Complete Stripe signup and connect a paid tier",
+      "detail": ""
+    },
+    {
+      "name": "Affiliate calculator sites",
+      "platform": "Web + affiliate partners",
+      "status": "queued",
+      "reason": "",
+      "revenue": 0,
+      "milestone": "Launch the first live calculator site",
+      "detail": ""
+    },
+    {
+      "name": "Stock assets",
+      "platform": "Adobe Stock",
+      "status": "blocked",
+      "reason": "Account live; upload requires phone verification",
+      "revenue": 0,
+      "milestone": "Complete phone verification and upload assets",
+      "detail": ""
+    },
+    {
+      "name": "Print on demand",
+      "platform": "Redbubble",
+      "status": "building",
+      "reason": "",
+      "revenue": 0,
+      "milestone": "Publish the first designs",
+      "detail": "Account live; initial designs in progress"
+    },
+    {
+      "name": "Open-source sponsorship",
+      "platform": "GitHub Sponsors",
+      "status": "queued",
+      "reason": "",
+      "revenue": 0,
+      "milestone": "Prepare the first sponsorable project",
+      "detail": "Account live"
+    }
   ]
 }
