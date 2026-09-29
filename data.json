@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-29T13:07:09-04:00",
+  "updatedAt": "2026-09-29T13:11:29-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -65,13 +65,12 @@
     {
       "name": "Stock assets",
       "platform": "Adobe Stock",
-      "status": "blocked",
-      "reason": "Account live; upload requires phone verification",
+      "status": "building",
+      "reason": "",
       "revenue": 0,
-      "milestone": "Complete phone verification and upload assets",
-      "detail": "",
-      "unblock": "Verify your phone number with the code (about 30 sec).",
-      "financial": "Payout details may be needed before receiving earnings; the current upload blocker is phone verification, not a payment."
+      "milestone": "Upload the first asset batch",
+      "detail": "Account live; phone verified and contributor gate cleared. First uploads still pending.",
+      "financial": "Payout details may be needed before receiving earnings; not blocking initial uploads."
     },
     {
       "name": "Print on demand",
