@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-29T15:14:13-04:00",
+  "updatedAt": "2026-09-29T15:39:09-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -70,8 +70,8 @@
       "status": "building",
       "reason": "",
       "revenue": 0,
-      "milestone": "Upload first asset batch - timing depends on assets and submission checks",
-      "detail": "Account live; phone verified and contributor gate cleared. First uploads still pending.",
+      "milestone": "Owner uploads and submits first asset batch on desktop - timing depends on owner and Adobe review",
+      "detail": "Contributor uploads are unlocked, but the upload widget did not accept agent-staged files. Five PNG assets and desktop upload steps were emailed to the owner; submission is still pending.",
       "financial": "Payout details may be needed before receiving earnings; not blocking initial uploads."
     },
     {
@@ -101,8 +101,8 @@
       "status": "building",
       "reason": "",
       "revenue": 0,
-      "milestone": "Seller profile approval - expected review 24–48h; then publish staged services",
-      "detail": "Account verified; seller profile submitted and pending manual review. Three service drafts staged; agent access awaits refreshed login."
+      "milestone": "Finish service drafts, then await profile approval (review window reported as 24–48h)",
+      "detail": "Seller onboarding complete and profile review pending. Agent login restored; first service draft is being entered. Payout setup remains with owner."
     },
     {
       "name": "Freelance marketplace",
