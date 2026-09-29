@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-29T14:02:50-04:00",
+  "updatedAt": "2026-09-29T14:35:09-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -27,11 +27,11 @@
     {
       "name": "Service gigs",
       "platform": "Fiverr",
-      "status": "building",
-      "reason": "",
+      "status": "parked",
+      "reason": "Seller setup paused: ID verification and W-9 are required before selling",
       "revenue": 0,
-      "milestone": "Publish prepared gigs - timing depends on login handoff or owner pasting drafts",
-      "detail": "Seller onboarding completed by the owner on phone. Three gig drafts are prepared; publishing is still pending."
+      "milestone": "Find a more autonomous outlet - no reliable ETA yet",
+      "detail": "Account exists and three gig drafts are prepared. Owner paused this route because of the ID and tax-form requirements; alternative outlet research is underway."
     },
     {
       "name": "Metered invoice API",
@@ -109,5 +109,5 @@
       "note": "Roughly 10–15 sales on the catalog track. API, affiliate, and stock tracks may take 3–12+ months. None of these dates or sales are guaranteed."
     }
   },
-  "tldr": "The invoice API and three calculator tools are publicly live; five Redbubble designs are reported live. Fiverr seller onboarding is done and gigs are waiting to be published, while Stripe, Adobe Stock and GitHub sponsorship setup are still building. Payhip is blocked by a sign-in challenge and Etsy awaits approval of its $29 setup fee."
+  "tldr": "The invoice API and three calculators are publicly live; five Redbubble designs are reported live. Stripe, Adobe Stock and GitHub sponsorship setup are building, while Fiverr is parked on ID and W-9 requirements as alternatives are researched. Payhip is blocked by a sign-in challenge and Etsy awaits approval of its $29 fee."
 }
