@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-29T14:35:09-04:00",
+  "updatedAt": "2026-09-29T15:14:13-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -80,9 +80,9 @@
       "status": "building",
       "reason": "",
       "revenue": 0,
-      "milestone": "Finish shop bio - targeted today; first sale has no reliable ETA",
-      "detail": "Five designs reported live in the Morrowgrid shop. Shop bio is not finished; some large-print products may be limited by image size.",
-      "financial": "Bank or payout details may be needed before receiving earnings; not blocking first designs."
+      "milestone": "First sale - no reliable ETA; recheck browse-grid visibility soon",
+      "detail": "Brand avatar and bio live. Five designs are reported live through direct product pages; the new shop browse grid is still empty, with indexing under review.",
+      "financial": "Payout details may be needed to receive earnings; no sale reported."
     },
     {
       "name": "Open-source sponsorship",
@@ -94,6 +94,24 @@
       "detail": "Public invoice PDF generator repository is live; funding configuration is present. Sponsorship payout activation is not complete.",
       "financial": "Payout activation requires an owner step; no sponsor revenue reported.",
       "url": "https://github.com/morrowgrid/invoice-pdf-generator"
+    },
+    {
+      "name": "Freelance services",
+      "platform": "Legiit",
+      "status": "building",
+      "reason": "",
+      "revenue": 0,
+      "milestone": "Seller profile approval - expected review 24–48h; then publish staged services",
+      "detail": "Account verified; seller profile submitted and pending manual review. Three service drafts staged; agent access awaits refreshed login."
+    },
+    {
+      "name": "Freelance marketplace",
+      "platform": "Truelancer",
+      "status": "parked",
+      "reason": "Verification email has not arrived",
+      "revenue": 0,
+      "milestone": "Recheck email block tomorrow at 9 AM; account setup timing unknown",
+      "detail": "Account verification is held by missing email; no seller services live."
     }
   ],
   "estimates": {
@@ -109,5 +127,5 @@
       "note": "Roughly 10–15 sales on the catalog track. API, affiliate, and stock tracks may take 3–12+ months. None of these dates or sales are guaranteed."
     }
   },
-  "tldr": "The invoice API and three calculators are publicly live; five Redbubble designs are reported live. Stripe, Adobe Stock and GitHub sponsorship setup are building, while Fiverr is parked on ID and W-9 requirements as alternatives are researched. Payhip is blocked by a sign-in challenge and Etsy awaits approval of its $29 fee."
+  "tldr": "The invoice API and three calculators are publicly live; five Redbubble designs and its brand bio/avatar are reported live, though the shop browse grid is still empty. Stripe, Adobe Stock, GitHub Sponsors and Legiit are building, with Legiit seller review pending. Payhip and Etsy are blocked; Fiverr is parked on ID/W-9 requirements and Truelancer on a missing verification email."
 }
