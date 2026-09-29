@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-29T15:39:09-04:00",
+  "updatedAt": "2026-09-29T15:41:13-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -70,8 +70,8 @@
       "status": "building",
       "reason": "",
       "revenue": 0,
-      "milestone": "Owner uploads and submits first asset batch on desktop - timing depends on owner and Adobe review",
-      "detail": "Contributor uploads are unlocked, but the upload widget did not accept agent-staged files. Five PNG assets and desktop upload steps were emailed to the owner; submission is still pending.",
+      "milestone": "Complete metadata and submit five designs for Adobe review - in progress; approval timing unknown",
+      "detail": "Owner uploaded five designs to the Adobe Stock contributor portal. Titles, keywords and categories are being completed; review submission is still pending.",
       "financial": "Payout details may be needed before receiving earnings; not blocking initial uploads."
     },
     {
