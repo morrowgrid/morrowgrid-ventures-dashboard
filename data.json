@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-29T13:34:54-04:00",
+  "updatedAt": "2026-09-29T13:40:44-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -40,9 +40,10 @@
       "status": "live",
       "reason": "",
       "revenue": 0,
-      "milestone": "Recheck public listing in about 15 min; public availability timing unconfirmed",
-      "detail": "Invoice PDF Worker and paid-gateway test passed. Basic $0, Pro $10/mo and Ultra $25/mo configured; public listing still returns “API not found” to outside viewers.",
-      "financial": "Payout setup remains unlinked; it is a later collection step, not a blocker to public-listing verification."
+      "milestone": "First outside subscriber - no reliable ETA; payout activation is a later owner step",
+      "detail": "Public Invoice PDF Generator listing is live, with a free Basic tier and paid Pro $10/mo and Ultra $25/mo tiers. The paid-gateway test returned a valid PDF.",
+      "financial": "Payout setup remains unlinked; earnings collection needs owner activation.",
+      "url": "https://rapidapi.com/MorrowgridStudio/api/invoice-pdf-generator4"
     },
     {
       "name": "Microtools + paid tier",
@@ -57,11 +58,11 @@
     {
       "name": "Affiliate calculator sites",
       "platform": "Web + affiliate partners",
-      "status": "queued",
+      "status": "building",
       "reason": "",
       "revenue": 0,
-      "milestone": "First calculator launch - no reliable date until build scope is set",
-      "detail": "Calculator-site groundwork is being planned; no public calculator or affiliate links confirmed yet."
+      "milestone": "Deploy first calculator site - targeted today, subject to deployment checks",
+      "detail": "Three working calculators built; Cloudflare Pages deployment is pending. No public calculator or affiliate links yet."
     },
     {
       "name": "Stock assets",
@@ -86,11 +87,13 @@
     {
       "name": "Open-source sponsorship",
       "platform": "GitHub Sponsors",
-      "status": "queued",
+      "status": "building",
       "reason": "",
       "revenue": 0,
-      "milestone": "Prepare first sponsorable project - no reliable date set",
-      "detail": "Account live"
+      "milestone": "Complete Sponsors activation - timing depends on owner payout setup",
+      "detail": "Public invoice PDF generator repository is live; funding configuration is present. Sponsorship payout activation is not complete.",
+      "financial": "Payout activation requires an owner step; no sponsor revenue reported.",
+      "url": "https://github.com/morrowgrid/invoice-pdf-generator"
     }
   ],
   "estimates": {
@@ -106,5 +109,5 @@
       "note": "Roughly 10–15 sales on the catalog track. API, affiliate, and stock tracks may take 3–12+ months. None of these dates or sales are guaranteed."
     }
   },
-  "tldr": "The invoice API works through RapidAPI’s gateway, but its listing is still unavailable to outside viewers; three Redbubble designs are reported live. Stripe and Adobe Stock setup are moving forward. Payhip is blocked by a sign-in challenge, Etsy awaits approval of its $29 fee, and Fiverr needs seller onboarding on the owner’s phone."
+  "tldr": "The invoice API is publicly listed with a free tier and two paid tiers, and three Redbubble designs are reported live. Stripe, Adobe Stock, the calculator sites and GitHub sponsorship groundwork are building. Payhip is blocked by a sign-in challenge, Etsy awaits approval of its $29 fee, and Fiverr needs seller onboarding on the owner’s phone."
 }
