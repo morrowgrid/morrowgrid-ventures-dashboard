@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-29T13:40:44-04:00",
+  "updatedAt": "2026-09-29T13:52:07-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -27,12 +27,11 @@
     {
       "name": "Service gigs",
       "platform": "Fiverr",
-      "status": "blocked",
-      "reason": "Platform access blocked; self-onboarding deferred",
+      "status": "building",
+      "reason": "",
       "revenue": 0,
-      "milestone": "Seller onboarding - about 5 min on phone; timing depends on owner",
-      "detail": "",
-      "unblock": "Complete free seller onboarding on your phone (about 5 min); paste-ready gig drafts are available."
+      "milestone": "Publish prepared gigs - timing depends on login handoff or owner pasting drafts",
+      "detail": "Seller onboarding completed by the owner on phone. Three gig drafts are prepared; publishing is still pending."
     },
     {
       "name": "Metered invoice API",
@@ -58,11 +57,12 @@
     {
       "name": "Affiliate calculator sites",
       "platform": "Web + affiliate partners",
-      "status": "building",
+      "status": "live",
       "reason": "",
       "revenue": 0,
-      "milestone": "Deploy first calculator site - targeted today, subject to deployment checks",
-      "detail": "Three working calculators built; Cloudflare Pages deployment is pending. No public calculator or affiliate links yet."
+      "milestone": "Add relevant affiliate partner links and disclosures - no reliable date set",
+      "detail": "Three calculators are public: freelance rate, mortgage, and macro/calorie. Affiliate partner links are not yet added.",
+      "url": "https://morrowgrid-calculators.pages.dev/"
     },
     {
       "name": "Stock assets",
@@ -80,8 +80,8 @@
       "status": "building",
       "reason": "",
       "revenue": 0,
-      "milestone": "Upload last two designs - targeted today; public listing check follows",
-      "detail": "Three of five prepared designs reported public in the Morrowgrid shop; two more uploads are pending. Some large-print products may be limited by current image size.",
+      "milestone": "Finish shop bio - targeted today; first sale has no reliable ETA",
+      "detail": "Five designs reported live in the Morrowgrid shop. Shop bio is not finished; some large-print products may be limited by image size.",
       "financial": "Bank or payout details may be needed before receiving earnings; not blocking first designs."
     },
     {
@@ -109,5 +109,5 @@
       "note": "Roughly 10–15 sales on the catalog track. API, affiliate, and stock tracks may take 3–12+ months. None of these dates or sales are guaranteed."
     }
   },
-  "tldr": "The invoice API is publicly listed with a free tier and two paid tiers, and three Redbubble designs are reported live. Stripe, Adobe Stock, the calculator sites and GitHub sponsorship groundwork are building. Payhip is blocked by a sign-in challenge, Etsy awaits approval of its $29 fee, and Fiverr needs seller onboarding on the owner’s phone."
+  "tldr": "The invoice API and three calculator tools are publicly live; five Redbubble designs are reported live. Fiverr seller onboarding is done and gigs are waiting to be published, while Stripe, Adobe Stock and GitHub sponsorship setup are still building. Payhip is blocked by a sign-in challenge and Etsy awaits approval of its $29 setup fee."
 }
