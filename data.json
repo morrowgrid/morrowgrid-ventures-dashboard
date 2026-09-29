@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-29T12:59:10-04:00",
+  "updatedAt": "2026-09-29T13:07:09-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -19,7 +19,9 @@
       "reason": "One-time $29 setup fee deferred",
       "revenue": 0,
       "milestone": "Revisit setup fee when approved",
-      "detail": ""
+      "detail": "",
+      "unblock": "Approve the one-time $29 setup fee, then complete payout and bank setup (about 15 min).",
+      "financial": "Costs money: $29 one-time setup fee. Bank account required for payouts."
     },
     {
       "name": "Service gigs",
@@ -28,7 +30,8 @@
       "reason": "Platform access blocked; self-onboarding deferred",
       "revenue": 0,
       "milestone": "Owner onboarding or an alternative route",
-      "detail": ""
+      "detail": "",
+      "unblock": "Complete free seller onboarding on your phone (about 5 min); paste-ready gig drafts are available."
     },
     {
       "name": "Metered invoice API",
@@ -46,7 +49,9 @@
       "reason": "Stripe signup pending; agent access blocked",
       "revenue": 0,
       "milestone": "Complete Stripe signup and connect a paid tier",
-      "detail": ""
+      "detail": "",
+      "unblock": "Create the bare Stripe account (about 2 min); the team can handle the rest.",
+      "financial": "Bank account and identity details will be needed to activate Stripe payouts; no card or bank account is needed for the bare signup."
     },
     {
       "name": "Affiliate calculator sites",
@@ -64,7 +69,9 @@
       "reason": "Account live; upload requires phone verification",
       "revenue": 0,
       "milestone": "Complete phone verification and upload assets",
-      "detail": ""
+      "detail": "",
+      "unblock": "Verify your phone number with the code (about 30 sec).",
+      "financial": "Payout details may be needed before receiving earnings; the current upload blocker is phone verification, not a payment."
     },
     {
       "name": "Print on demand",
@@ -73,7 +80,8 @@
       "reason": "",
       "revenue": 0,
       "milestone": "Publish the first designs",
-      "detail": "Account live; initial designs in progress"
+      "detail": "Account live; initial designs in progress",
+      "financial": "Bank or payout details may be needed before receiving earnings; not blocking first designs."
     },
     {
       "name": "Open-source sponsorship",
@@ -84,5 +92,18 @@
       "milestone": "Prepare the first sponsorable project",
       "detail": "Account live"
     }
-  ]
+  ],
+  "estimates": {
+    "title": "Estimates, not promises",
+    "first10": {
+      "range": "1–3 months without traffic",
+      "path": "Fastest path: Payhip catalog",
+      "note": "Once the storefront is live, a quick first buyer could mean days to weeks. At $6–12 per product (about $5.50–11 net per sale), reaching $10 may take one or two sales, depending on price and fees."
+    },
+    "first100": {
+      "range": "2–6 months",
+      "path": "Fastest path: Payhip catalog",
+      "note": "Roughly 10–15 sales on the catalog track. API, affiliate, and stock tracks may take 3–12+ months. None of these dates or sales are guaranteed."
+    }
+  }
 }
