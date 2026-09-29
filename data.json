@@ -1,16 +1,16 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-29T13:28:40-04:00",
+  "updatedAt": "2026-09-29T13:32:13-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
       "name": "Digital product catalog",
       "platform": "Payhip",
       "status": "building",
-      "reason": "",
+      "reason": "Payhip sign-in is held by a CAPTCHA challenge",
       "revenue": 0,
-      "milestone": "Complete storefront login and publish six ready products",
-      "detail": "Budget sheet, small-business books, Airbnb tracker, pricing calculator and two Notion CRMs"
+      "milestone": "Regain storefront access, then publish six ready products",
+      "detail": "Six products are prepared; storefront setup is waiting on Payhip account access. A fresh sign-in attempt is planned for 4 PM."
     },
     {
       "name": "Etsy shop",
@@ -39,8 +39,9 @@
       "status": "live",
       "reason": "",
       "revenue": 0,
-      "milestone": "Finish RapidAPI listing and launch paid plans after payment setup",
-      "detail": "Invoice PDF generator deployed; RapidAPI listing in progress. Free $0 plan only; paid tiers planned."
+      "milestone": "Confirm the RapidAPI listing opens publicly, then seek first subscriber",
+      "detail": "Invoice PDF Worker and paid-gateway test passed. Basic $0, Pro $10/mo and Ultra $25/mo configured; the listing still returns “API not found” to outside viewers.",
+      "financial": "RapidAPI payout account is not linked; bank/tax details are a later collection step, not a blocker to listing verification."
     },
     {
       "name": "Microtools + paid tier",
@@ -59,7 +60,7 @@
       "reason": "",
       "revenue": 0,
       "milestone": "Launch the first live calculator site",
-      "detail": ""
+      "detail": "Calculator-site groundwork is being planned; no public calculator or affiliate links confirmed yet."
     },
     {
       "name": "Stock assets",
@@ -77,8 +78,8 @@
       "status": "building",
       "reason": "",
       "revenue": 0,
-      "milestone": "Publish the first designs",
-      "detail": "Account live; initial designs in progress",
+      "milestone": "Finish uploads and verify the designs are publicly listed",
+      "detail": "Five designs generated; upload and listing work underway. Public availability of the batch is not yet confirmed.",
       "financial": "Bank or payout details may be needed before receiving earnings; not blocking first designs."
     },
     {
