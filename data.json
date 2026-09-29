@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-29T13:33:17-04:00",
+  "updatedAt": "2026-09-29T13:34:54-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -9,9 +9,9 @@
       "status": "blocked",
       "reason": "Payhip sign-in is held by a CAPTCHA challenge",
       "revenue": 0,
-      "milestone": "Regain storefront access, then publish six ready products",
-      "detail": "Six products are prepared; storefront setup is waiting on Payhip account access. A fresh sign-in attempt is planned for 4 PM.",
-      "unblock": "A fresh sign-in attempt is planned for 4 PM; if access remains blocked, storefront publishing waits."
+      "milestone": "Try access again at 4 PM; storefront timing unknown until sign-in works",
+      "detail": "Six products prepared; storefront setup waits on Payhip access. A fresh sign-in attempt is planned for 4 PM.",
+      "unblock": "A fresh sign-in attempt is planned for 4 PM; publishing needs account access."
     },
     {
       "name": "Etsy shop",
@@ -19,7 +19,7 @@
       "status": "blocked",
       "reason": "One-time $29 setup fee deferred",
       "revenue": 0,
-      "milestone": "Revisit setup fee when approved",
+      "milestone": "Shop setup - no ETA until $29 fee is approved and payout steps are completed",
       "detail": "",
       "unblock": "Approve the one-time $29 setup fee, then complete payout and bank setup (about 15 min).",
       "financial": "Costs money: $29 one-time setup fee. Bank account required for payouts."
@@ -30,7 +30,7 @@
       "status": "blocked",
       "reason": "Platform access blocked; self-onboarding deferred",
       "revenue": 0,
-      "milestone": "Owner onboarding or an alternative route",
+      "milestone": "Seller onboarding - about 5 min on phone; timing depends on owner",
       "detail": "",
       "unblock": "Complete free seller onboarding on your phone (about 5 min); paste-ready gig drafts are available."
     },
@@ -40,9 +40,9 @@
       "status": "live",
       "reason": "",
       "revenue": 0,
-      "milestone": "Confirm the RapidAPI listing opens publicly, then seek first subscriber",
-      "detail": "Invoice PDF Worker and paid-gateway test passed. Basic $0, Pro $10/mo and Ultra $25/mo configured; the listing still returns “API not found” to outside viewers.",
-      "financial": "Payout setup is still unlinked; collection details are a later step, not a blocker to public-listing verification."
+      "milestone": "Recheck public listing in about 15 min; public availability timing unconfirmed",
+      "detail": "Invoice PDF Worker and paid-gateway test passed. Basic $0, Pro $10/mo and Ultra $25/mo configured; public listing still returns “API not found” to outside viewers.",
+      "financial": "Payout setup remains unlinked; it is a later collection step, not a blocker to public-listing verification."
     },
     {
       "name": "Microtools + paid tier",
@@ -50,7 +50,7 @@
       "status": "building",
       "reason": "",
       "revenue": 0,
-      "milestone": "Complete public business profile and product/price stubs",
+      "milestone": "Public business profile and product/price stubs - today if setup proceeds",
       "detail": "Stripe account created and agent login succeeded. Non-identity setup in progress; payments are not yet activated.",
       "financial": "Bank account and identity details will be needed to activate Stripe payouts; this is a later step, not a blocker to profile or product setup."
     },
@@ -60,7 +60,7 @@
       "status": "queued",
       "reason": "",
       "revenue": 0,
-      "milestone": "Launch the first live calculator site",
+      "milestone": "First calculator launch - no reliable date until build scope is set",
       "detail": "Calculator-site groundwork is being planned; no public calculator or affiliate links confirmed yet."
     },
     {
@@ -69,7 +69,7 @@
       "status": "building",
       "reason": "",
       "revenue": 0,
-      "milestone": "Upload the first asset batch",
+      "milestone": "Upload first asset batch - timing depends on assets and submission checks",
       "detail": "Account live; phone verified and contributor gate cleared. First uploads still pending.",
       "financial": "Payout details may be needed before receiving earnings; not blocking initial uploads."
     },
@@ -79,8 +79,8 @@
       "status": "building",
       "reason": "",
       "revenue": 0,
-      "milestone": "Finish uploads and verify the designs are publicly listed",
-      "detail": "Five designs generated; upload and listing work underway. Public availability of the batch is not yet confirmed.",
+      "milestone": "Upload last two designs - targeted today; public listing check follows",
+      "detail": "Three of five prepared designs reported public in the Morrowgrid shop; two more uploads are pending. Some large-print products may be limited by current image size.",
       "financial": "Bank or payout details may be needed before receiving earnings; not blocking first designs."
     },
     {
@@ -89,7 +89,7 @@
       "status": "queued",
       "reason": "",
       "revenue": 0,
-      "milestone": "Prepare the first sponsorable project",
+      "milestone": "Prepare first sponsorable project - no reliable date set",
       "detail": "Account live"
     }
   ],
@@ -105,5 +105,6 @@
       "path": "Fastest path: Payhip catalog",
       "note": "Roughly 10–15 sales on the catalog track. API, affiliate, and stock tracks may take 3–12+ months. None of these dates or sales are guaranteed."
     }
-  }
+  },
+  "tldr": "The invoice API works through RapidAPI’s gateway, but its listing is still unavailable to outside viewers; three Redbubble designs are reported live. Stripe and Adobe Stock setup are moving forward. Payhip is blocked by a sign-in challenge, Etsy awaits approval of its $29 fee, and Fiverr needs seller onboarding on the owner’s phone."
 }
