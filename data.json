@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-29T15:41:13-04:00",
+  "updatedAt": "2026-09-29T15:59:41-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -67,12 +67,13 @@
     {
       "name": "Stock assets",
       "platform": "Adobe Stock",
-      "status": "building",
-      "reason": "",
+      "status": "blocked",
+      "reason": "Adobe’s “Submit 5 files” control is disabled; cause not yet confirmed",
       "revenue": 0,
-      "milestone": "Complete metadata and submit five designs for Adobe review - in progress; approval timing unknown",
-      "detail": "Owner uploaded five designs to the Adobe Stock contributor portal. Titles, keywords and categories are being completed; review submission is still pending.",
-      "financial": "Payout details may be needed before receiving earnings; not blocking initial uploads."
+      "milestone": "Submit five saved files when Adobe enables the control - timing unknown",
+      "detail": "Five illustrations are uploaded with titles, keywords, categories and AI labels saved. They have not been submitted for review.",
+      "financial": "Payout details may be needed before receiving earnings; not blocking initial uploads.",
+      "unblock": "Recheck Adobe submission availability; the venture team plans a Thursday check. Contributor support is another route if it stays disabled."
     },
     {
       "name": "Print on demand",
@@ -101,8 +102,8 @@
       "status": "building",
       "reason": "",
       "revenue": 0,
-      "milestone": "Finish service drafts, then await profile approval (review window reported as 24–48h)",
-      "detail": "Seller onboarding complete and profile review pending. Agent login restored; first service draft is being entered. Payout setup remains with owner."
+      "milestone": "Finish service drafts and await seller approval - review reported at 24–48h",
+      "detail": "Seller profile awaits admin approval. First service is a published draft (not live); second service is partly drafted, and third is not started."
     },
     {
       "name": "Freelance marketplace",
@@ -127,5 +128,5 @@
       "note": "Roughly 10–15 sales on the catalog track. API, affiliate, and stock tracks may take 3–12+ months. None of these dates or sales are guaranteed."
     }
   },
-  "tldr": "The invoice API and three calculators are publicly live; five Redbubble designs and its brand bio/avatar are reported live, though the shop browse grid is still empty. Stripe, Adobe Stock, GitHub Sponsors and Legiit are building, with Legiit seller review pending. Payhip and Etsy are blocked; Fiverr is parked on ID/W-9 requirements and Truelancer on a missing verification email."
+  "tldr": "The invoice API and three calculators are publicly live; five Redbubble designs and its brand profile are reported live. Adobe Stock has five completed drafts but submission is blocked by a disabled control; Legiit drafts await seller approval. Stripe and GitHub sponsorship setup are building, while Payhip and Etsy are blocked and Fiverr/Truelancer are parked."
 }
