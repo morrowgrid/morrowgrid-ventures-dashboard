@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-29T13:11:29-04:00",
+  "updatedAt": "2026-09-29T13:28:40-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -46,12 +46,11 @@
       "name": "Microtools + paid tier",
       "platform": "Web + Stripe",
       "status": "building",
-      "reason": "Stripe signup pending; agent access blocked",
+      "reason": "",
       "revenue": 0,
-      "milestone": "Complete Stripe signup and connect a paid tier",
-      "detail": "",
-      "unblock": "Create the bare Stripe account (about 2 min); the team can handle the rest.",
-      "financial": "Bank account and identity details will be needed to activate Stripe payouts; no card or bank account is needed for the bare signup."
+      "milestone": "Complete public business profile and product/price stubs",
+      "detail": "Stripe account created and agent login succeeded. Non-identity setup in progress; payments are not yet activated.",
+      "financial": "Bank account and identity details will be needed to activate Stripe payouts; this is a later step, not a blocker to profile or product setup."
     },
     {
       "name": "Affiliate calculator sites",
