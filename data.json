@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-29T13:52:07-04:00",
+  "updatedAt": "2026-09-29T14:02:50-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -50,9 +50,9 @@
       "status": "building",
       "reason": "",
       "revenue": 0,
-      "milestone": "Public business profile and product/price stubs - today if setup proceeds",
-      "detail": "Stripe account created and agent login succeeded. Non-identity setup in progress; payments are not yet activated.",
-      "financial": "Bank account and identity details will be needed to activate Stripe payouts; this is a later step, not a blocker to profile or product setup."
+      "milestone": "Create test secret key (captcha blocked), then owner activation - timing uncertain",
+      "detail": "Morrowgrid Studio branding is set. Test-mode Microtools Pro product and $5/month price exist; test publishable key saved. No live charge is enabled.",
+      "financial": "Bank and identity activation remains an owner step. Test-mode product and price cannot charge customers."
     },
     {
       "name": "Affiliate calculator sites",
