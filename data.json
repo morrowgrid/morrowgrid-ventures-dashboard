@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-29T15:59:41-04:00",
+  "updatedAt": "2026-09-29T16:15:17-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -9,9 +9,9 @@
       "status": "blocked",
       "reason": "Payhip sign-in is held by a CAPTCHA challenge",
       "revenue": 0,
-      "milestone": "Try access again at 4 PM; storefront timing unknown until sign-in works",
-      "detail": "Six products prepared; storefront setup waits on Payhip access. A fresh sign-in attempt is planned for 4 PM.",
-      "unblock": "A fresh sign-in attempt is planned for 4 PM; publishing needs account access."
+      "milestone": "Confirm sign-in retry result, then publish catalog if access works - timing unknown",
+      "detail": "Six products prepared; storefront setup awaits account access. One clean sign-in retry was requested today; result pending.",
+      "unblock": "Sign-in challenge; a clean retry has been requested. Publishing needs account access."
     },
     {
       "name": "Etsy shop",
@@ -61,7 +61,7 @@
       "reason": "",
       "revenue": 0,
       "milestone": "Add relevant affiliate partner links and disclosures - no reliable date set",
-      "detail": "Three calculators are public: freelance rate, mortgage, and macro/calorie. Affiliate partner links are not yet added.",
+      "detail": "Five free calculators are public: freelance rate, mortgage, macro/calorie, compound interest and tip split. Affiliate links are not added yet.",
       "url": "https://morrowgrid-calculators.pages.dev/"
     },
     {
@@ -78,11 +78,11 @@
     {
       "name": "Print on demand",
       "platform": "Redbubble",
-      "status": "building",
+      "status": "live",
       "reason": "",
       "revenue": 0,
-      "milestone": "First sale - no reliable ETA; recheck browse-grid visibility soon",
-      "detail": "Brand avatar and bio live. Five designs are reported live through direct product pages; the new shop browse grid is still empty, with indexing under review.",
+      "milestone": "First sale - no reliable date; recheck shop browse visibility",
+      "detail": "Five designs have public direct product pages and the brand bio/avatar is live. The shop browse grid remains empty; visibility there is under review.",
       "financial": "Payout details may be needed to receive earnings; no sale reported."
     },
     {
@@ -128,5 +128,38 @@
       "note": "Roughly 10–15 sales on the catalog track. API, affiliate, and stock tracks may take 3–12+ months. None of these dates or sales are guaranteed."
     }
   },
-  "tldr": "The invoice API and three calculators are publicly live; five Redbubble designs and its brand profile are reported live. Adobe Stock has five completed drafts but submission is blocked by a disabled control; Legiit drafts await seller approval. Stripe and GitHub sponsorship setup are building, while Payhip and Etsy are blocked and Fiverr/Truelancer are parked."
+  "tldr": "The invoice API, five calculators and five Redbubble designs are publicly live, though the calculator site has no affiliate links and Redbubble’s browse grid is still empty. Stripe, GitHub Sponsors and Legiit are building; Adobe has five saved files but submission is blocked. Payhip and Etsy are blocked, while Fiverr and Truelancer are parked.",
+  "profitPaths": [
+    {
+      "name": "Redbubble designs",
+      "stage": "Buyable now",
+      "path": "A buyer purchases a design; net profit above $1 depends on the item’s actual royalty and any costs.",
+      "signal": "Direct product pages resolve; no sale reported."
+    },
+    {
+      "name": "Invoice PDF API",
+      "stage": "Paid plan available",
+      "path": "One Pro ($10/month) or Ultra ($25/month) subscriber could clear $1 before payout fees; final net depends on marketplace fees and any costs.",
+      "signal": "Public listing and paid-gateway test verified; no outside subscriber reported."
+    },
+    {
+      "name": "Five calculators",
+      "stage": "Audience only",
+      "path": "Affiliate links or a paid tier must be added before visits can earn.",
+      "signal": "Site is live; monetization is not."
+    },
+    {
+      "name": "Legiit services",
+      "stage": "Approval pending",
+      "path": "A paid service order after seller approval; service effort and platform fees determine actual profit.",
+      "signal": "One service drafted, two still being prepared."
+    },
+    {
+      "name": "Payhip catalog",
+      "stage": "Access blocked",
+      "path": "Publish a product, connect payout and get a buyer; fees and price decide net profit.",
+      "signal": "Six products prepared, storefront not live."
+    }
+  ],
+  "profitNote": "No defensible numerical probability of making $1+ profit exists yet: there are no observed buyer conversion rates or completed sales. These are readiness-based paths, not odds or guarantees. Profit means receipts after platform fees and direct costs, not the card’s reported revenue."
 }
