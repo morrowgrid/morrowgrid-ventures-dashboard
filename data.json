@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-29T16:20:12-04:00",
+  "updatedAt": "2026-09-29T19:05:37-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -124,6 +124,17 @@
       "milestone": "Retry first design publication tonight; no reliable completion ETA",
       "detail": "Brand account verified. Five designs were staged, but no public designs are published. The single-upload publish action crashed the browser; a retry is planned tonight.",
       "financial": "Payout setup can be completed later; no revenue yet."
+    },
+    {
+      "name": "Reader-supported tools",
+      "platform": "Buy Me a Coffee",
+      "status": "building",
+      "reason": "Donation checkout is gated by payout-method setup",
+      "revenue": 0,
+      "milestone": "Connect payout method to receive support - owner step, no ETA",
+      "detail": "The public Morrowgrid Studio page currently offers Follow, not a working support checkout. Payout setup is reported pending; no donation reported.",
+      "financial": "Payout setup is needed before support can be received.",
+      "url": "https://buymeacoffee.com/morrowgrid"
     }
   ],
   "estimates": {
@@ -139,7 +150,7 @@
       "note": "Roughly 10–15 sales on the catalog track. API, affiliate, and stock tracks may take 3–12+ months. None of these dates or sales are guaranteed."
     }
   },
-  "tldr": "The invoice API, five calculators and five Redbubble designs are publicly available. Payhip has a public $5 pack, but checkout is disabled until a payment connection is made. Calculators lack affiliate links and Redbubble’s browse grid is empty. TeePublic has no published designs. Stripe, GitHub Sponsors and Legiit are building; Adobe and Etsy are blocked; Fiverr and Truelancer are parked.",
+  "tldr": "The invoice API, five calculators, five Redbubble designs and Payhip’s $5 pack have public pages. Payhip checkout is disabled until a payment connection is made; calculators lack affiliate links and Redbubble’s shop grid is empty. Buy Me a Coffee has a public page but shows Follow instead of a working support checkout; TeePublic has no published designs. Stripe, GitHub Sponsors and Legiit are building, Adobe and Etsy are blocked, and Fiverr/Truelancer are parked.",
   "profitPaths": [
     {
       "name": "Redbubble designs",
