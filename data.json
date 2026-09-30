@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-30T10:26:57-04:00",
+  "updatedAt": "2026-09-30T12:09:01-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -62,7 +62,7 @@
       "reason": "",
       "revenue": 0,
       "milestone": "Add affiliate partner links and disclosures, and enable support checkout - no reliable date set",
-      "detail": "Five free calculators are public. A Buy Me a Coffee link is now on the site; the support page currently offers Follow rather than a working donation checkout. Affiliate links are not added.",
+      "detail": "Seven free calculators (including BMI and percentage tools) are public. A Buy Me a Coffee link is now on the site; the support page currently offers Follow rather than a working donation checkout. Affiliate links are not added.",
       "url": "https://morrowgrid-calculators.pages.dev/"
     },
     {
@@ -160,7 +160,7 @@
       "note": "The public API has $10 and $25 monthly tiers. Reaching $100 depends on paid subscribers, product royalties and fees. No outside sales are reported, and Payhip cannot accept payment yet."
     }
   },
-  "tldr": "The invoice API, five calculators, Redbubble designs and Payhip’s $5 pack have public pages, but no sales are reported. Payhip checkout is disabled; calculators now link to Buy Me a Coffee, which still cannot take support. Redbubble’s shop grid is empty, one design is under review, and TeePublic publishing is parked after repeated crashes. Stripe, GitHub Sponsors and Legiit are building; Adobe and Etsy are blocked; Fiverr and Truelancer are parked. HackerOne and Bugcrowd account setup is complete; security bounty research is building, with no reports or awards yet.",
+  "tldr": "The invoice API, seven calculators, Redbubble designs and Payhip’s $5 pack have public pages, but no sales are reported. Payhip checkout is disabled; calculators now link to Buy Me a Coffee, which still cannot take support. Redbubble’s shop grid is empty, one design is under review, and TeePublic publishing is parked after repeated crashes. Stripe, GitHub Sponsors and Legiit are building; Adobe and Etsy are blocked; Fiverr and Truelancer are parked. HackerOne and Bugcrowd account setup is complete; security bounty research is building, with no reports or awards yet.",
   "profitPaths": [
     {
       "name": "Redbubble designs",
@@ -175,7 +175,7 @@
       "signal": "Public listing and paid-gateway test verified; no outside subscriber reported."
     },
     {
-      "name": "Five calculators",
+      "name": "Seven calculators",
       "stage": "Audience only",
       "path": "Affiliate links or a paid tier must be added before visits can earn.",
       "signal": "Site is live; monetization is not."
