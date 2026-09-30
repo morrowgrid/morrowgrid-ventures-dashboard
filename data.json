@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-30T09:26:20-04:00",
+  "updatedAt": "2026-09-30T10:05:09-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -112,8 +112,8 @@
       "status": "parked",
       "reason": "Verification email has not arrived",
       "revenue": 0,
-      "milestone": "Recheck email block tomorrow at 9 AM; account setup timing unknown",
-      "detail": "Account verification is held by missing email; no seller services live."
+      "milestone": "Await verification email; checked in daily sweep - no reliable setup ETA",
+      "detail": "The morning verification retry did not produce a received email. No Truelancer message is found in the current mailbox search; the delivery cause is unconfirmed. No seller services are live."
     },
     {
       "name": "Print-on-demand shop",
@@ -200,4 +200,4 @@
     }
   ],
   "profitNote": "No defensible numerical probability of making $1+ profit exists yet: there are no observed buyer conversion rates or completed sales. These are readiness-based paths, not odds or guarantees. Profit means receipts after platform fees and direct costs, not the card’s reported revenue."
-    }
+}
