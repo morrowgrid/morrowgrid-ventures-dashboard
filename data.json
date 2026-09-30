@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-30T08:25:46-04:00",
+  "updatedAt": "2026-09-30T09:26:20-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -200,4 +200,4 @@
     }
   ],
   "profitNote": "No defensible numerical probability of making $1+ profit exists yet: there are no observed buyer conversion rates or completed sales. These are readiness-based paths, not odds or guarantees. Profit means receipts after platform fees and direct costs, not the card’s reported revenue."
-}
+    }
