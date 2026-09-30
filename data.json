@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-30T15:30:32-04:00",
+  "updatedAt": "2026-09-30T16:30:34-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -69,7 +69,7 @@
       "name": "Stock assets",
       "platform": "Adobe Stock",
       "status": "blocked",
-      "reason": "Adobe\u2019s \u201cSubmit 5 files\u201d control is disabled; cause not yet confirmed",
+      "reason": "Adobe’s “Submit 5 files” control is disabled; cause not yet confirmed",
       "revenue": 0,
       "milestone": "Submit five saved files when Adobe enables the control - timing unknown",
       "detail": "Five illustrations are uploaded with titles, keywords, categories and AI labels saved. They have not been submitted for review.",
@@ -103,7 +103,7 @@
       "status": "building",
       "reason": "",
       "revenue": 0,
-      "milestone": "Finish service drafts and await seller approval - review reported at 24\u201348h",
+      "milestone": "Finish service drafts and await seller approval - review reported at 24–48h",
       "detail": "Seller profile awaits admin approval. First service is a published draft (not live); second service is partly drafted, and third is not started."
     },
     {
@@ -160,12 +160,12 @@
       "note": "The public API has $10 and $25 monthly tiers. Reaching $100 depends on paid subscribers, product royalties and fees. No outside sales are reported, and Payhip cannot accept payment yet."
     }
   },
-  "tldr": "The invoice API, seven calculators, Redbubble designs and Payhip\u2019s $5 pack have public pages, but no sales are reported. Payhip checkout is disabled; calculators now link to Buy Me a Coffee, which still cannot take support. Redbubble\u2019s camper design now has a public product page, but its shop grid is still empty; TeePublic publishing is parked after repeated crashes. Stripe, GitHub Sponsors and Legiit are building; Adobe and Etsy are blocked; Fiverr and Truelancer are parked. HackerOne and Bugcrowd account setup is complete; security bounty research is building, with no reports or awards yet.",
+  "tldr": "The invoice API, seven calculators, Redbubble designs and Payhip’s $5 pack have public pages, but no sales are reported. Payhip checkout is disabled; calculators now link to Buy Me a Coffee, which still cannot take support. Redbubble’s camper design now has a public product page, but its shop grid is still empty; TeePublic publishing is parked after repeated crashes. Stripe, GitHub Sponsors and Legiit are building; Adobe and Etsy are blocked; Fiverr and Truelancer are parked. HackerOne and Bugcrowd account setup is complete; security bounty research is building, with no reports or awards yet.",
   "profitPaths": [
     {
       "name": "Redbubble designs",
       "stage": "Public pages; availability uncertain",
-      "path": "A buyer purchases a design; net profit above $1 depends on the item\u2019s actual royalty and any costs.",
+      "path": "A buyer purchases a design; net profit above $1 depends on the item’s actual royalty and any costs.",
       "signal": "Camper design page renders with 17 product links; shop browsing still shows no results. Checkout not verified; no sale reported."
     },
     {
@@ -199,5 +199,5 @@
       "signal": "HackerOne and Bugcrowd researcher access verified; no bounty awarded or revenue reported."
     }
   ],
-  "profitNote": "No defensible numerical probability of making $1+ profit exists yet: there are no observed buyer conversion rates or completed sales. These are readiness-based paths, not odds or guarantees. Profit means receipts after platform fees and direct costs, not the card\u2019s reported revenue."
+  "profitNote": "No defensible numerical probability of making $1+ profit exists yet: there are no observed buyer conversion rates or completed sales. These are readiness-based paths, not odds or guarantees. Profit means receipts after platform fees and direct costs, not the card’s reported revenue."
 }
