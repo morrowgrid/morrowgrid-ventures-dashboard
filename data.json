@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-29T20:20:40-04:00",
+  "updatedAt": "2026-09-29T21:20:15-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -154,9 +154,9 @@
   "profitPaths": [
     {
       "name": "Redbubble designs",
-      "stage": "Buyable now",
+      "stage": "Public pages; availability uncertain",
       "path": "A buyer purchases a design; net profit above $1 depends on the item’s actual royalty and any costs.",
-      "signal": "Direct product pages resolve; no sale reported."
+      "signal": "Direct work pages list products, but shop browsing shows no results and one work is reported under review; no sale reported."
     },
     {
       "name": "Invoice PDF API",
