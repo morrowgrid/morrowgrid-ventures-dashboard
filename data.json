@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-29T21:20:15-04:00",
+  "updatedAt": "2026-09-29T22:02:46-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -135,6 +135,16 @@
       "detail": "The public Morrowgrid Studio page currently offers Follow, not a working support checkout. Payout setup is reported pending; no donation reported.",
       "financial": "Payout setup is needed before support can be received.",
       "url": "https://buymeacoffee.com/morrowgrid"
+    },
+    {
+      "name": "Security bounty research",
+      "platform": "HackerOne + Bugcrowd",
+      "status": "building",
+      "reason": "",
+      "revenue": 0,
+      "milestone": "Choose an in-scope target and prepare a valid report - no reliable ETA for first bounty",
+      "detail": "Both researcher accounts are accessible. No submitted reports or awarded bounties are reported yet; account setup does not mean earnings.",
+      "financial": "Payout and tax setup remain later owner steps before receiving any award."
     }
   ],
   "estimates": {
@@ -150,7 +160,7 @@
       "note": "The public API has $10 and $25 monthly tiers. Reaching $100 depends on paid subscribers, product royalties and fees. No outside sales are reported, and Payhip cannot accept payment yet."
     }
   },
-  "tldr": "The invoice API, five calculators, Redbubble designs and Payhip’s $5 pack have public pages, but no sales are reported. Payhip checkout is disabled; calculators now link to Buy Me a Coffee, which still cannot take support. Redbubble’s shop grid is empty, one design is under review, and TeePublic publishing is parked after repeated crashes. Stripe, GitHub Sponsors and Legiit are building; Adobe and Etsy are blocked; Fiverr and Truelancer are parked.",
+  "tldr": "The invoice API, five calculators, Redbubble designs and Payhip’s $5 pack have public pages, but no sales are reported. Payhip checkout is disabled; calculators now link to Buy Me a Coffee, which still cannot take support. Redbubble’s shop grid is empty, one design is under review, and TeePublic publishing is parked after repeated crashes. Stripe, GitHub Sponsors and Legiit are building; Adobe and Etsy are blocked; Fiverr and Truelancer are parked. HackerOne and Bugcrowd account setup is complete; security bounty research is building, with no reports or awards yet.",
   "profitPaths": [
     {
       "name": "Redbubble designs",
@@ -181,6 +191,12 @@
       "stage": "Product page public; checkout disabled",
       "path": "Publish a product, connect checkout and get a buyer; price, fees and direct costs decide net profit.",
       "signal": "First $5 pack listed, but buyers cannot pay until checkout is connected; no sale reported."
+    },
+    {
+      "name": "Security bounty research",
+      "stage": "Accounts ready; research not completed",
+      "path": "A valid in-scope finding must be accepted and qualify for a paid award; duplicate, invalid or unpaid reports may earn nothing.",
+      "signal": "HackerOne and Bugcrowd researcher access verified; no bounty awarded or revenue reported."
     }
   ],
   "profitNote": "No defensible numerical probability of making $1+ profit exists yet: there are no observed buyer conversion rates or completed sales. These are readiness-based paths, not odds or guarantees. Profit means receipts after platform fees and direct costs, not the card’s reported revenue."
