@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-09-29T19:18:43-04:00",
+  "updatedAt": "2026-09-29T20:20:40-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -61,8 +61,8 @@
       "status": "live",
       "reason": "",
       "revenue": 0,
-      "milestone": "Add relevant affiliate partner links and disclosures - no reliable date set",
-      "detail": "Five free calculators are public: freelance rate, mortgage, macro/calorie, compound interest and tip split. Affiliate links are not added yet.",
+      "milestone": "Add affiliate partner links and disclosures, and enable support checkout - no reliable date set",
+      "detail": "Five free calculators are public. A Buy Me a Coffee link is now on the site; the support page currently offers Follow rather than a working donation checkout. Affiliate links are not added.",
       "url": "https://morrowgrid-calculators.pages.dev/"
     },
     {
@@ -82,8 +82,8 @@
       "status": "live",
       "reason": "",
       "revenue": 0,
-      "milestone": "First sale - no reliable date; recheck shop browse visibility",
-      "detail": "Five designs have public direct product pages and the brand bio/avatar is live. The shop browse grid remains empty; visibility there is under review.",
+      "milestone": "Recheck shop indexing and review state - no reliable ETA; first sale unreported",
+      "detail": "Five designs are configured public and direct work pages open, but the shop browse grid still shows no results. One work is under review; sales availability and discoverability remain uncertain.",
       "financial": "Payout details may be needed to receive earnings; no sale reported."
     },
     {
@@ -118,12 +118,12 @@
     {
       "name": "Print-on-demand shop",
       "platform": "TeePublic",
-      "status": "building",
-      "reason": "",
+      "status": "parked",
+      "reason": "Publishing failed after repeated submit crashes",
       "revenue": 0,
-      "milestone": "Retry first design publication tonight; no reliable completion ETA",
-      "detail": "Brand account verified. Five designs were staged, but no public designs are published. The single-upload publish action crashed the browser; a retry is planned tonight.",
-      "financial": "Payout setup can be completed later; no revenue yet."
+      "milestone": "Find a working publishing route - no reliable ETA; further browser retries paused",
+      "detail": "Account access works and the password is secured. The design uploader repeatedly crashes on publish; no designs are publicly listed.",
+      "financial": "Payout setup remains a later owner step; no sale reported."
     },
     {
       "name": "Reader-supported tools",
@@ -150,7 +150,7 @@
       "note": "The public API has $10 and $25 monthly tiers. Reaching $100 depends on paid subscribers, product royalties and fees. No outside sales are reported, and Payhip cannot accept payment yet."
     }
   },
-  "tldr": "The invoice API, five calculators, five Redbubble designs and Payhip’s $5 pack have public pages. Payhip checkout is disabled until a payment connection is made; calculators lack affiliate links and Redbubble’s shop grid is empty. Buy Me a Coffee has a public page but shows Follow instead of a working support checkout; TeePublic has no published designs. Stripe, GitHub Sponsors and Legiit are building, Adobe and Etsy are blocked, and Fiverr/Truelancer are parked.",
+  "tldr": "The invoice API, five calculators, Redbubble designs and Payhip’s $5 pack have public pages, but no sales are reported. Payhip checkout is disabled; calculators now link to Buy Me a Coffee, which still cannot take support. Redbubble’s shop grid is empty, one design is under review, and TeePublic publishing is parked after repeated crashes. Stripe, GitHub Sponsors and Legiit are building; Adobe and Etsy are blocked; Fiverr and Truelancer are parked.",
   "profitPaths": [
     {
       "name": "Redbubble designs",
