@@ -1,6 +1,6 @@
 {
   "brand": "Morrowgrid Studio",
-  "updatedAt": "2026-10-02T19:57:09-04:00",
+  "updatedAt": "2026-10-02T20:58:30-04:00",
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "ventures": [
     {
@@ -104,7 +104,7 @@
       "reason": "",
       "revenue": 0,
       "milestone": "First service order - timing uncertain",
-      "detail": "All three services show ACTIVE in the seller dashboard with no pending-approval label: retro art ($15), custom calculator ($20), and invoice generator ($25). Buyer checkout and anonymous access are not independently verified; no sale reported.",
+      "detail": "All three services show ACTIVE in the seller dashboard with no pending-approval label: retro art ($15), custom calculator ($20), and invoice generator ($25). ACTIVE does not prove marketplace discovery: Legiit applies category-specific visibility criteria. Search visibility, buyer checkout and anonymous access are not independently verified; no sale reported.",
       "url": "https://legiit.com/MorrowgridStudio/retro-vintage-art-for-print-on-demand"
     },
     {
@@ -161,7 +161,7 @@
       "note": "The public API has $10 and $25 monthly tiers. Reaching $100 depends on paid subscribers, product royalties and fees. No outside sales are reported, and Payhip cannot accept payment yet."
     }
   },
-  "tldr": "The invoice API, nine calculators, Redbubble designs and Payhip’s $5 pack have public pages, but no sales are reported. Payhip checkout is disabled; calculators now link to Buy Me a Coffee, which still cannot take support. Redbubble’s camper design now has a public product page, but its shop grid is still empty; TeePublic publishing is parked after repeated crashes. All three Legiit services now show ACTIVE with no pending-approval label: retro art ($15), calculator ($20) and invoice generator ($25). Buyer checkout is untested. Stripe and GitHub Sponsors are building; Adobe and Etsy are blocked; Fiverr and Truelancer are parked. HackerOne and Bugcrowd account setup is complete; security bounty research is building, with no reports or awards yet.",
+  "tldr": "The invoice API, nine calculators, Redbubble designs and Payhip’s $5 pack have public pages, but no sales are reported. Payhip checkout is disabled; calculators now link to Buy Me a Coffee, which still cannot take support. Redbubble’s camper design now has a public product page, but its shop grid is still empty; TeePublic publishing is parked after repeated crashes. All three Legiit services now show ACTIVE with no pending-approval label: retro art ($15), calculator ($20) and invoice generator ($25). Legiit marketplace discovery and buyer checkout are unverified. Stripe and GitHub Sponsors are building; Adobe and Etsy are blocked; Fiverr and Truelancer are parked. HackerOne and Bugcrowd account setup is complete; security bounty research is building, with no reports or awards yet.",
   "profitPaths": [
     {
       "name": "Redbubble designs",
@@ -183,9 +183,9 @@
     },
     {
       "name": "Legiit services",
-      "stage": "Three services active; buyer checkout untested",
+      "stage": "Three services active; discovery and checkout unverified",
       "path": "A paid service order could clear $1 after platform fees and delivery costs.",
-      "signal": "Seller dashboard shows all three services ACTIVE with no pending-approval label; buyer checkout and anonymous access untested. No order reported."
+      "signal": "Seller dashboard shows all three services ACTIVE with no pending-approval label; marketplace discovery, buyer checkout and anonymous access unverified. No order reported."
     },
     {
       "name": "Payhip catalog",
