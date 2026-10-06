@@ -28,7 +28,7 @@
       "stage": "Paid plan available"
     },
     {
-      "name": "Eleven calculators",
+      "name": "Twelve calculators",
       "path": "Affiliate links or a paid tier must be added before visits can earn.",
       "signal": "Site is live; monetization is not.",
       "stage": "Audience only"
@@ -53,8 +53,8 @@
     }
   ],
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
-  "tldr": "The invoice API, eleven calculators, Redbubble designs and Payhip\u2019s $5 pack have public pages, but no sales are reported. Payhip checkout is disabled; calculators now link to Buy Me a Coffee, which still cannot take support. Redbubble\u2019s camper design now has a public product page, but its shop grid is still empty; TeePublic publishing is parked after repeated crashes. All three Legiit services now show ACTIVE with no pending-approval label: retro art ($15), calculator ($20) and invoice generator ($25). Legiit marketplace discovery and buyer checkout are unverified. Stripe and GitHub Sponsors are building; Adobe and Etsy are blocked; Fiverr and Truelancer are parked. HackerOne and Bugcrowd account setup is complete; security bounty research is building, with no reports or awards yet.",
-  "updatedAt": "2026-10-06T11:44:20-04:00",
+  "tldr": "The invoice API, twelve calculators, Redbubble designs and Payhip\u2019s $5 pack have public pages, but no sales are reported. Payhip checkout is disabled; calculators now link to Buy Me a Coffee, which still cannot take support. Redbubble\u2019s camper design now has a public product page, but its shop grid is still empty; TeePublic publishing is parked after repeated crashes. All three Legiit services now show ACTIVE with no pending-approval label: retro art ($15), calculator ($20) and invoice generator ($25). Legiit marketplace discovery and buyer checkout are unverified. Stripe and GitHub Sponsors are building; Adobe and Etsy are blocked; Fiverr and Truelancer are parked. HackerOne and Bugcrowd account setup is complete; security bounty research is building, with no reports or awards yet.",
+  "updatedAt": "2026-10-06T12:46:14-04:00",
   "ventures": [
     {
       "detail": "The first $5 digital design pack has a public page, but it cannot accept payment until a PayPal or Stripe account is connected. Store design is still being customized.",
@@ -109,7 +109,7 @@
       "status": "building"
     },
     {
-      "detail": "Eleven free calculators (including Loan Payoff and Break-Even) are public. The new Break-Even Calculator shows how many sales cover fixed and variable costs. A Buy Me a Coffee link is now on the site; the support page currently offers Follow rather than a working donation checkout. Affiliate links are not added.",
+      "detail": "Twelve free calculators (including Loan Payoff, Break-Even and Discount) are public. The new Discount Calculator shows sale price and savings, including a second discount. A Buy Me a Coffee link is now on the site; the support page currently offers Follow rather than a working donation checkout. Affiliate links are not added.",
       "milestone": "Add affiliate partner links and disclosures, and enable support checkout - no reliable date set",
       "name": "Affiliate calculator sites",
       "platform": "Web + affiliate partners",
@@ -119,15 +119,15 @@
       "url": "https://morrowgrid-calculators.pages.dev/"
     },
     {
-      "detail": "Five illustrations are uploaded with titles, keywords, categories and AI labels saved. They have not been submitted for review.",
+      "detail": "Five illustrations are visible on the New tab with saved metadata. The disabled submission control currently says Submit 3 files, and two assets have red status indicators. Submission readiness for all five is not confirmed.",
       "financial": "Payout details may be needed before receiving earnings; not blocking initial uploads.",
-      "milestone": "Submit five saved files when Adobe enables the control - timing unknown",
+      "milestone": "Confirm submission requirements and file readiness - timing unknown",
       "name": "Stock assets",
       "platform": "Adobe Stock",
-      "reason": "Adobe\u2019s \u201cSubmit 5 files\u201d control is disabled; cause not yet confirmed",
+      "reason": "Submission control disabled; current cause not independently confirmed",
       "revenue": 0,
       "status": "blocked",
-      "unblock": "The October 3 check still found submission disabled. The next check is planned for October 6; the cause remains unconfirmed. Contributor support is another route if it stays disabled."
+      "unblock": "The October 6 check still found submission disabled. A payout-setup explanation was reported but could not be reproduced in the live check; resolve that requirement and the two red asset indicators before submitting."
     },
     {
       "detail": "Five designs are configured public. The camper design now renders a public page with Morrowgrid attribution and 17 product links, but the shop browse grid still shows no results. Checkout and search discoverability are not confirmed.",
