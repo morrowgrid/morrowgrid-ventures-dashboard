@@ -54,7 +54,7 @@
   ],
   "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
   "tldr": "The invoice API, twelve calculators, Redbubble designs and Payhip’s $5 pack have public pages, but no sales are reported. Payhip checkout is disabled; calculators now link to Buy Me a Coffee, which still cannot take support. Redbubble’s camper design now has a public product page, but its shop grid is still empty; TeePublic publishing is parked after repeated crashes. All three Legiit services now show ACTIVE with no pending-approval label: retro art ($15), calculator ($20) and invoice generator ($25). Legiit marketplace discovery and buyer checkout are unverified. Stripe and GitHub Sponsors are building; Adobe and Etsy are blocked; Fiverr and Truelancer are parked. HackerOne and Bugcrowd account setup is complete; security bounty research is building, with no reports or awards yet.",
-  "updatedAt": "2026-10-06T15:46:25-04:00",
+  "updatedAt": "2026-10-06T16:46:58-04:00",
   "ventures": [
     {
       "detail": "The first $5 digital design pack has a public page, but it cannot accept payment until a PayPal or Stripe account is connected. Store design is still being customized.",
