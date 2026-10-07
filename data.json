@@ -18,17 +18,17 @@
     {
       "name": "Redbubble designs",
       "path": "A buyer purchases a design; net profit above $1 depends on the item’s actual royalty and any costs.",
-      "signal": "Camper design page renders with 17 product links; shop browsing still shows no results. Checkout not verified; no sale reported.",
+      "signal": "Camper design page renders with 17 product links; shop browsing still shows no results. Checkout not verified; no sale reported. October 7 sales history confirms no sales yet.",
       "stage": "Public pages; availability uncertain"
     },
     {
       "name": "Invoice PDF API",
       "path": "One Pro ($10/month) or Ultra ($25/month) subscriber could clear $1 before payout fees; final net depends on marketplace fees and any costs.",
-      "signal": "Public listing and paid-gateway test verified; no outside subscriber reported.",
+      "signal": "Public listing and paid-gateway test previously verified. October 7 payout account remains unlinked; subscriber count and paid revenue are unknown.",
       "stage": "Paid plan available"
     },
     {
-      "name": "Twelve calculators",
+      "name": "Thirteen calculators",
       "path": "Affiliate links or a paid tier must be added before visits can earn.",
       "signal": "Site is live; monetization is not.",
       "stage": "Audience only"
@@ -52,9 +52,9 @@
       "stage": "Accounts ready; research not completed"
     }
   ],
-  "revenueNote": "Reported revenue to date. Figures are not connected to payment accounts.",
-  "tldr": "The invoice API, twelve calculators, Redbubble designs and Payhip’s $5 pack have public pages, but no sales are reported. Payhip checkout is disabled; calculators now link to Buy Me a Coffee, which still cannot take support. Redbubble’s camper design now has a public product page, but its shop grid is still empty; TeePublic publishing is parked after repeated crashes. All three Legiit services now show ACTIVE with no pending-approval label: retro art ($15), calculator ($20) and invoice generator ($25). Legiit marketplace discovery and buyer checkout are unverified. Stripe and GitHub Sponsors are building; Adobe and Etsy are blocked; Fiverr and Truelancer are parked. HackerOne and Bugcrowd account setup is complete; security bounty research is building, with no reports or awards yet.",
-  "updatedAt": "2026-10-07T11:57:58-04:00",
+  "revenueNote": "Reported revenue snapshot, not a verified portfolio total. Redbubble sales history was checked October 7: no sales. RapidAPI paid revenue and subscriber count are unverified. Legiit, Buy Me a Coffee and Payhip figures were last checked October 5; later activity is unknown.",
+  "tldr": "The invoice API, thirteen calculators, Redbubble designs and Payhip’s $5 pack have public pages, with no confirmed sales in the checked records. Redbubble sales history showed no sales on October 7; RapidAPI paid revenue and subscribers remain unverified. Payhip checkout is disabled; calculators now link to Buy Me a Coffee, which still cannot take support. Redbubble’s camper design now has a public product page, but its shop grid is still empty; TeePublic publishing is parked after repeated crashes. All three Legiit services now show ACTIVE with no pending-approval label: retro art ($15), calculator ($20) and invoice generator ($25). Legiit marketplace discovery and buyer checkout are unverified. Stripe and GitHub Sponsors are building; Adobe and Etsy are blocked; Fiverr and Truelancer are parked. HackerOne and Bugcrowd account setup is complete; security bounty research is building, with no reports or awards yet.",
+  "updatedAt": "2026-10-07T12:10:51-04:00",
   "ventures": [
     {
       "detail": "The first $5 digital design pack has a public page, but it cannot accept payment until a PayPal or Stripe account is connected. Store design is still being customized.",
@@ -89,8 +89,8 @@
     },
     {
       "detail": "Public Invoice PDF Generator listing is live, with a free Basic tier and paid Pro $10/mo and Ultra $25/mo tiers. The paid-gateway test returned a valid PDF.",
-      "financial": "Payout setup remains unlinked; earnings collection needs owner activation.",
-      "milestone": "First outside subscriber - no reliable ETA; payout activation is a later owner step",
+      "financial": "No payout account linked as of October 7; RapidAPI says revenue is held until linked. Paid revenue and subscriber count are unverified, not confirmed zero.",
+      "milestone": "Verify subscriber and revenue records; payout account remains unlinked - no reliable ETA",
       "name": "Metered invoice API",
       "platform": "RapidAPI + Cloudflare Workers",
       "reason": "",
@@ -109,7 +109,7 @@
       "status": "building"
     },
     {
-      "detail": "Twelve free calculators (including Loan Payoff, Break-Even and Discount) are public. The new Discount Calculator shows sale price and savings, including a second discount. A Buy Me a Coffee link is now on the site; the support page currently offers Follow rather than a working donation checkout. Affiliate links are not added.",
+      "detail": "Thirteen free calculators are public. The new Hourly to Salary Calculator converts an hourly rate, weekly hours and weeks worked into annual, monthly and weekly pay. A Buy Me a Coffee link is on the site; the support page last offered Follow rather than a working donation checkout. Affiliate links are not added.",
       "milestone": "Add affiliate partner links and disclosures, and enable support checkout - no reliable date set",
       "name": "Affiliate calculator sites",
       "platform": "Web + affiliate partners",
@@ -130,8 +130,8 @@
       "unblock": "The October 6 check still found submission disabled. A payout-setup explanation was reported but could not be reproduced in the live check; resolve that requirement and the two red asset indicators before submitting."
     },
     {
-      "detail": "Five designs are configured public. The camper design now renders a public page with Morrowgrid attribution and 17 product links, but the shop browse grid still shows no results. Checkout and search discoverability are not confirmed.",
-      "financial": "Payout details may be needed to receive earnings; no sale reported.",
+      "detail": "Five designs are configured public. The camper design now renders a public page with Morrowgrid attribution and 17 product links, but the shop browse grid still shows no results. Checkout and search discoverability are not confirmed. Sales history checked October 7 says no sales yet.",
+      "financial": "No sales recorded in the October 7 sales-history check. Payout details may be needed before receiving earnings.",
       "milestone": "Recheck shop indexing and buyer availability - no reliable ETA; first sale unreported",
       "name": "Print on demand",
       "platform": "Redbubble",
