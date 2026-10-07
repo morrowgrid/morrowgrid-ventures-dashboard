@@ -54,7 +54,7 @@
   ],
   "revenueNote": "Reported revenue snapshot, not a verified portfolio total. Redbubble sales history was checked October 7: no sales. RapidAPI paid revenue and subscriber count are unverified. Legiit, Buy Me a Coffee and Payhip figures were last checked October 5; later activity is unknown.",
   "tldr": "The invoice API, thirteen calculators, Redbubble designs and Payhip’s $5 pack have public pages, with no confirmed sales in the checked records. Redbubble sales history showed no sales on October 7; RapidAPI paid revenue and subscribers remain unverified. Payhip checkout is disabled; calculators now link to Buy Me a Coffee, which still cannot take support. Redbubble’s camper design now has a public product page, but its shop grid is still empty; TeePublic publishing is parked after repeated crashes. All three Legiit services now show ACTIVE with no pending-approval label: retro art ($15), calculator ($20) and invoice generator ($25). Legiit marketplace discovery and buyer checkout are unverified. Stripe and GitHub Sponsors are building; Adobe and Etsy are blocked; Fiverr and Truelancer are parked. HackerOne and Bugcrowd account setup is complete; security bounty research is building, with no reports or awards yet.",
-  "updatedAt": "2026-10-07T12:14:45-04:00",
+  "updatedAt": "2026-10-07T12:57:38-04:00",
   "ventures": [
     {
       "detail": "The first $5 digital design pack has a public page, but it cannot accept payment until a PayPal or Stripe account is connected. Store design is still being customized.",
@@ -64,10 +64,10 @@
       "platform": "Payhip",
       "reason": "",
       "revenue": 0,
-      "status": "live",
-      "url": "https://payhip.com/b/8qClz",
+      "revenueAsOf": "Oct 5, 2026 (last reported check)",
       "revenueVerified": false,
-      "revenueAsOf": "Oct 5, 2026 (last reported check)"
+      "status": "live",
+      "url": "https://payhip.com/b/8qClz"
     },
     {
       "detail": "",
@@ -77,9 +77,9 @@
       "platform": "Etsy",
       "reason": "One-time $29 setup fee deferred",
       "revenue": 0,
+      "revenueVerified": false,
       "status": "blocked",
-      "unblock": "Approve the one-time $29 setup fee, then complete payout and bank setup (about 15 min).",
-      "revenueVerified": false
+      "unblock": "Approve the one-time $29 setup fee, then complete payout and bank setup (about 15 min)."
     },
     {
       "detail": "Account exists and three gig drafts are prepared. Owner paused this route because of the ID and tax-form requirements; alternative outlet research is underway.",
@@ -88,8 +88,8 @@
       "platform": "Fiverr",
       "reason": "Seller setup paused: ID verification and W-9 are required before selling",
       "revenue": 0,
-      "status": "parked",
-      "revenueVerified": false
+      "revenueVerified": false,
+      "status": "parked"
     },
     {
       "detail": "Public Invoice PDF Generator listing is live, with a free Basic tier and paid Pro $10/mo and Ultra $25/mo tiers. The paid-gateway test returned a valid PDF.",
@@ -99,9 +99,9 @@
       "platform": "RapidAPI + Cloudflare Workers",
       "reason": "",
       "revenue": 0,
+      "revenueVerified": false,
       "status": "live",
-      "url": "https://rapidapi.com/MorrowgridStudio/api/invoice-pdf-generator4",
-      "revenueVerified": false
+      "url": "https://rapidapi.com/MorrowgridStudio/api/invoice-pdf-generator4"
     },
     {
       "detail": "Morrowgrid Studio branding is set. Test-mode Microtools Pro product and $5/month price exist; test publishable key saved. No live charge is enabled.",
@@ -111,8 +111,8 @@
       "platform": "Web + Stripe",
       "reason": "",
       "revenue": 0,
-      "status": "building",
-      "revenueVerified": false
+      "revenueVerified": false,
+      "status": "building"
     },
     {
       "detail": "Thirteen free calculators are public. The new Hourly to Salary Calculator converts an hourly rate, weekly hours and weeks worked into annual, monthly and weekly pay. A Buy Me a Coffee link is on the site; the support page last offered Follow rather than a working donation checkout. Affiliate links are not added.",
@@ -121,9 +121,9 @@
       "platform": "Web + affiliate partners",
       "reason": "",
       "revenue": 0,
+      "revenueVerified": false,
       "status": "live",
-      "url": "https://morrowgrid-calculators.pages.dev/",
-      "revenueVerified": false
+      "url": "https://morrowgrid-calculators.pages.dev/"
     },
     {
       "detail": "Five illustrations are visible on the New tab with saved metadata. The disabled submission control currently says Submit 3 files, and two assets have red status indicators. Submission readiness for all five is not confirmed.",
@@ -133,9 +133,9 @@
       "platform": "Adobe Stock",
       "reason": "Submission control disabled; current cause not independently confirmed",
       "revenue": 0,
+      "revenueVerified": false,
       "status": "blocked",
-      "unblock": "The October 6 check still found submission disabled. A payout-setup explanation was reported but could not be reproduced in the live check; resolve that requirement and the two red asset indicators before submitting.",
-      "revenueVerified": false
+      "unblock": "The October 6 check still found submission disabled. A payout-setup explanation was reported but could not be reproduced in the live check; resolve that requirement and the two red asset indicators before submitting."
     },
     {
       "detail": "Five designs are configured public. The camper design now renders a public page with Morrowgrid attribution and 17 product links, but the shop browse grid still shows no results. Checkout and search discoverability are not confirmed. Sales history checked October 7 says no sales yet.",
@@ -145,9 +145,9 @@
       "platform": "Redbubble",
       "reason": "",
       "revenue": 0,
-      "status": "live",
+      "revenueAsOf": "Oct 7, 2026",
       "revenueVerified": true,
-      "revenueAsOf": "Oct 7, 2026"
+      "status": "live"
     },
     {
       "detail": "Public invoice PDF generator repository is live; funding configuration is present. Sponsorship payout activation is not complete.",
@@ -157,9 +157,9 @@
       "platform": "GitHub Sponsors",
       "reason": "",
       "revenue": 0,
+      "revenueVerified": false,
       "status": "building",
-      "url": "https://github.com/morrowgrid/invoice-pdf-generator",
-      "revenueVerified": false
+      "url": "https://github.com/morrowgrid/invoice-pdf-generator"
     },
     {
       "detail": "All three services show ACTIVE in the seller dashboard with no pending-approval label: retro art ($15), custom calculator ($20), and invoice generator ($25). ACTIVE does not prove marketplace discovery: Legiit applies category-specific visibility criteria. Search visibility, buyer checkout and anonymous access are not independently verified; no sale reported.",
@@ -168,10 +168,10 @@
       "platform": "Legiit",
       "reason": "",
       "revenue": 0,
-      "status": "live",
-      "url": "https://legiit.com/MorrowgridStudio/retro-vintage-art-for-print-on-demand",
+      "revenueAsOf": "Oct 5, 2026 (last reported check)",
       "revenueVerified": false,
-      "revenueAsOf": "Oct 5, 2026 (last reported check)"
+      "status": "live",
+      "url": "https://legiit.com/MorrowgridStudio/retro-vintage-art-for-print-on-demand"
     },
     {
       "detail": "The morning verification retry did not produce a received email. No Truelancer message is found in the current mailbox search; the delivery cause is unconfirmed. No seller services are live.",
@@ -180,8 +180,8 @@
       "platform": "Truelancer",
       "reason": "Verification email has not arrived",
       "revenue": 0,
-      "status": "parked",
-      "revenueVerified": false
+      "revenueVerified": false,
+      "status": "parked"
     },
     {
       "detail": "Account access works and the password is secured. The design uploader repeatedly crashes on publish; no designs are publicly listed.",
@@ -191,8 +191,8 @@
       "platform": "TeePublic",
       "reason": "Publishing failed after repeated submit crashes",
       "revenue": 0,
-      "status": "parked",
-      "revenueVerified": false
+      "revenueVerified": false,
+      "status": "parked"
     },
     {
       "detail": "The public Morrowgrid Studio page currently offers Follow, not a working support checkout. Payout setup is reported pending; no donation reported.",
@@ -202,10 +202,10 @@
       "platform": "Buy Me a Coffee",
       "reason": "Donation checkout is gated by payout-method setup",
       "revenue": 0,
-      "status": "building",
-      "url": "https://buymeacoffee.com/morrowgrid",
+      "revenueAsOf": "Oct 5, 2026 (last reported check)",
       "revenueVerified": false,
-      "revenueAsOf": "Oct 5, 2026 (last reported check)"
+      "status": "building",
+      "url": "https://buymeacoffee.com/morrowgrid"
     },
     {
       "detail": "Both researcher accounts are accessible. No submitted reports or awarded bounties are reported yet; account setup does not mean earnings.",
@@ -215,8 +215,8 @@
       "platform": "HackerOne + Bugcrowd",
       "reason": "",
       "revenue": 0,
-      "status": "building",
-      "revenueVerified": false
+      "revenueVerified": false,
+      "status": "building"
     }
   ]
 }
