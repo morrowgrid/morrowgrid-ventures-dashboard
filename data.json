@@ -54,7 +54,7 @@
   ],
   "revenueNote": "Reported revenue snapshots, not a verified portfolio total. October 9 checks: Redbubble no sales; Legiit Total Earnings $0. Last verified October 8: Buy Me a Coffee last-30-day earnings $0; RapidAPI Total Paid $0.00 for May-October. Paid-subscriber count is unverified. Payhip checkout is still not enabled as of October 9; its revenue remains unverified. Other platform revenue remains unverified.",
   "tldr": "The invoice API, fifteen calculators, Redbubble designs and Payhip’s $5 pack have public pages, with no confirmed sales in the checked records. Redbubble sales history showed no sales on October 9; RapidAPI shows Total Paid $0.00 in its displayed six-month analytics, while paid-subscriber count remains unverified. Payhip checkout is disabled; calculators now link to Buy Me a Coffee, which still cannot take support. Redbubble’s camper design now has a public product page, but its shop grid is still empty; TeePublic publishing is parked after repeated crashes. All three Legiit services now show ACTIVE with no pending-approval label: retro art ($15), calculator ($20) and invoice generator ($25). Legiit marketplace discovery and buyer checkout are unverified. Stripe and GitHub Sponsors are building; Adobe and Etsy are blocked; Fiverr and Truelancer are parked. HackerOne and Bugcrowd account setup is complete; security bounty research is building, with no reports or awards yet.",
-  "updatedAt": "2026-10-09T12:07:01-04:00",
+  "updatedAt": "2026-10-09T12:23:11-04:00",
   "ventures": [
     {
       "detail": "The first $5 digital design pack has a public page. October 9 seller dashboard still says Setup checkout; payments cannot be accepted until checkout is connected. No current revenue or order total was verified.",
