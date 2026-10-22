@@ -18,17 +18,17 @@
     {
       "name": "Redbubble designs",
       "path": "A buyer purchases a design; net profit above $1 depends on the item’s actual royalty and any costs.",
-      "signal": "Camper design page renders with 17 product links; shop browsing still shows no results. Checkout not verified; no sale reported. October 20 sales history confirms no sales yet.",
+      "signal": "Camper design page renders with 17 product links; shop browsing still shows no results. Checkout not verified; no sale reported. October 22 sales history confirms no sales yet.",
       "stage": "Public pages; availability uncertain"
     },
     {
       "name": "Invoice PDF API",
       "path": "One Pro ($10/month) or Ultra ($25/month) subscriber could clear $1 before payout fees; final net depends on marketplace fees and any costs.",
-      "signal": "October 8 analytics shows Total Paid $0.00 in the displayed May-October window, 2 total users and 0 active users; October 20 traffic analytics shows 0 calls in 7 days. Paid-subscriber count is unverified; payout remains unlinked.",
+      "signal": "October 8 analytics shows Total Paid $0.00 in the displayed May-October window, 2 total users and 0 active users; October 22 traffic analytics shows 0 calls in 7 days. Paid-subscriber count is unverified; payout remains unlinked.",
       "stage": "Paid plan available"
     },
     {
-      "name": "Twenty-seven calculators",
+      "name": "Twenty-eight calculators",
       "path": "Affiliate links or a paid tier must be added before visits can earn.",
       "signal": "Site is live; monetization is not.",
       "stage": "Audience only"
@@ -52,9 +52,9 @@
       "stage": "Accounts ready; research not completed"
     }
   ],
-  "revenueNote": "Reported revenue snapshots, not a verified portfolio total. October 20 check: Redbubble no sales; Legiit Total Earnings $0 and 0 orders, checked October 20. Last verified October 8: Buy Me a Coffee last-30-day earnings $0; RapidAPI Total Paid $0.00 for May-October. RapidAPI traffic analytics showed 0 calls in the last 7 days on October 20. Paid-subscriber count is unverified. Payhip checkout is still not enabled as of October 9; its revenue remains unverified. Other platform revenue remains unverified.",
-  "tldr": "The invoice API, twenty-seven calculators, Redbubble designs and Payhip’s $5 pack have public pages, with no confirmed sales in the checked records. Redbubble sales history showed no sales on October 20; RapidAPI shows Total Paid $0.00 in its displayed six-month analytics, while paid-subscriber count remains unverified. Payhip checkout is disabled; calculators now link to Buy Me a Coffee, which still cannot take support. Redbubble’s camper design now has a public product page, but its shop grid is still empty; TeePublic publishing is parked after repeated crashes. All three Legiit services now show ACTIVE with no pending-approval label: retro art ($15), calculator ($20) and invoice generator ($25). Legiit marketplace discovery and buyer checkout are unverified. Stripe and GitHub Sponsors are building; Adobe and Etsy are blocked; Fiverr and Truelancer are parked. HackerOne and Bugcrowd account setup is complete; security bounty research is building, with no reports or awards yet.",
-  "updatedAt": "2026-10-22T11:10:19-04:00",
+  "revenueNote": "Reported revenue snapshots, not a verified portfolio total. October 22 check: Redbubble no sales; Legiit Total Earnings $0 and 0 orders, checked October 22. Last verified October 8: Buy Me a Coffee last-30-day earnings $0; RapidAPI Total Paid $0.00 for May-October. RapidAPI traffic analytics showed 0 calls in the last 7 days on October 22. Paid-subscriber count is unverified. Payhip checkout is still not enabled as of October 9; its revenue remains unverified. Other platform revenue remains unverified.",
+  "tldr": "The invoice API, twenty-eight calculators, Redbubble designs and Payhip’s $5 pack have public pages, with no confirmed sales in the checked records. Redbubble sales history showed no sales on October 22; RapidAPI shows Total Paid $0.00 in its displayed six-month analytics, while paid-subscriber count remains unverified. Payhip checkout is disabled; calculators now link to Buy Me a Coffee, which still cannot take support. Redbubble’s camper design now has a public product page, but its shop grid is still empty; TeePublic publishing is parked after repeated crashes. All three Legiit services now show ACTIVE with no pending-approval label: retro art ($15), calculator ($20) and invoice generator ($25). Legiit marketplace discovery and buyer checkout are unverified. Stripe and GitHub Sponsors are building; Adobe and Etsy are blocked; Fiverr and Truelancer are parked. HackerOne and Bugcrowd account setup is complete; security bounty research is building, with no reports or awards yet.",
+  "updatedAt": "2026-10-22T12:11:18-04:00",
   "ventures": [
     {
       "detail": "Prepared, not published: 18 digital products are ready as of October 20. Only the first $5 design pack has a public page. The other prepared products are not live listings. October 9 Payhip seller dashboard still says Setup checkout; payments cannot be accepted until checkout is connected. No current revenue or order total was verified.",
@@ -92,8 +92,8 @@
       "status": "parked"
     },
     {
-      "detail": "Public Invoice PDF Generator listing is live, with a free Basic tier and paid Pro $10/mo and Ultra $25/mo tiers. The paid-gateway test returned a valid PDF. October 20 traffic analytics shows 0 calls in the last 7 days.",
-      "financial": "No payout account linked as of October 20; RapidAPI says revenue is held until linked. Revenue Analytics shows Total Paid $0.00 for the displayed May-October window. User Analytics shows 2 total users and 0 active users; paid-subscriber count remains unverified.",
+      "detail": "Public Invoice PDF Generator listing is live, with a free Basic tier and paid Pro $10/mo and Ultra $25/mo tiers. The paid-gateway test returned a valid PDF. October 22 traffic analytics shows 0 calls in the last 7 days.",
+      "financial": "No payout account linked as of October 22; RapidAPI says revenue is held until linked. Revenue Analytics shows Total Paid $0.00 for the displayed May-October window. User Analytics shows 2 total users and 0 active users; paid-subscriber count remains unverified.",
       "milestone": "Verify paid-subscriber records; payout account remains unlinked - no reliable ETA",
       "name": "Metered invoice API",
       "platform": "RapidAPI + Cloudflare Workers",
@@ -116,7 +116,7 @@
       "status": "building"
     },
     {
-      "detail": "Twenty-seven free calculators are public, with non-empty page content verified October 21. The newest Debt-to-Income Ratio Calculator shows the DTI number lenders check from monthly debt payments and gross income. A Buy Me a Coffee link is on the site; support remains gated by payout setup. Affiliate links are not added.",
+      "detail": "Twenty-eight free calculators are public, with non-empty page content verified October 22. The newest Electricity Cost Calculator shows daily, monthly and yearly running cost from watts, hours and rate. A Buy Me a Coffee link is on the site; support remains gated by payout setup. Affiliate links are not added.",
       "milestone": "Add affiliate partner links and disclosures, and enable support checkout - no reliable date set",
       "name": "Affiliate calculator sites",
       "platform": "Web + affiliate partners",
@@ -139,14 +139,14 @@
       "unblock": "The October 6 check still found submission disabled. A payout-setup explanation was reported but could not be reproduced in the live check; resolve that requirement and the two red asset indicators before submitting."
     },
     {
-      "detail": "Five designs are configured public. The camper design now renders a public page with Morrowgrid attribution and 17 product links, but the shop browse grid still shows no results. Checkout and search discoverability are not confirmed. Sales history checked October 20 says no sales yet.",
-      "financial": "No sales recorded in the October 20 sales-history check. Payout details may be needed before receiving earnings.",
+      "detail": "Five designs are configured public. The camper design now renders a public page with Morrowgrid attribution and 17 product links, but the shop browse grid still shows no results. Checkout and search discoverability are not confirmed. Sales history checked October 22 says no sales yet.",
+      "financial": "No sales recorded in the October 22 sales-history check. Payout details may be needed before receiving earnings.",
       "milestone": "Recheck shop indexing and buyer availability - no reliable ETA; first sale unreported",
       "name": "Print on demand",
       "platform": "Redbubble",
       "reason": "",
       "revenue": 0,
-      "revenueAsOf": "Oct 20, 2026",
+      "revenueAsOf": "Oct 22, 2026",
       "revenueVerified": true,
       "status": "live"
     },
@@ -163,13 +163,13 @@
       "url": "https://github.com/morrowgrid/invoice-pdf-generator"
     },
     {
-      "detail": "All three services show ACTIVE in the seller dashboard with no pending-approval label: retro art ($15), custom calculator ($20), and invoice generator ($25). ACTIVE does not prove marketplace discovery: Legiit applies category-specific visibility criteria. Search visibility, buyer checkout and anonymous access are not independently verified; no sale reported. October 20 seller dashboard shows $0 Total Earnings and 0 total orders.",
+      "detail": "All three services show ACTIVE in the seller dashboard with no pending-approval label: retro art ($15), custom calculator ($20), and invoice generator ($25). ACTIVE does not prove marketplace discovery: Legiit applies category-specific visibility criteria. Search visibility, buyer checkout and anonymous access are not independently verified; no sale reported. October 22 seller dashboard shows $0 Total Earnings and 0 total orders.",
       "milestone": "First service order - timing uncertain",
       "name": "Freelance services",
       "platform": "Legiit",
       "reason": "",
       "revenue": 0,
-      "revenueAsOf": "Oct 20, 2026 (Total Earnings)",
+      "revenueAsOf": "Oct 22, 2026 (Total Earnings)",
       "revenueVerified": true,
       "status": "live",
       "url": "https://legiit.com/MorrowgridStudio/retro-vintage-art-for-print-on-demand"
